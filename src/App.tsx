@@ -28,7 +28,7 @@ export function App() {
             <header className="sticky top-0 z-50 bg-white border-b">
               <div className="container flex items-center justify-between px-4 py-4 mx-auto">
                 <div className="flex items-center gap-2">
-                  <img src="/logo.webp" alt="Elegancia y Comfort" className="w-auto h-8" />
+                  <img src="./logo.webp" alt="Elegancia y Comfort" className="w-auto h-8" />
                   <span className="font-serif text-lg">Elegancia y Comfort</span>
                 </div>
 
@@ -134,7 +134,7 @@ export function App() {
               <div className="container px-4 mx-auto">
                 <div className="flex flex-col items-center justify-between md:flex-row">
                   <div className="mb-4 md:mb-0">
-                    <img src="/logo.webp" alt="Elegancia y Comfort" className="inline-block w-auto h-8 mr-2" />
+                    <img src="./logo.webp" alt="Elegancia y Comfort" className="inline-block w-auto h-8 mr-2" />
                     <span className="text-gray-600">© {new Date().getFullYear()} Elegancia y Comfort</span>
                   </div>
                   <div className="flex gap-6">

@@ -36,7 +36,7 @@ const HomePage = () => {
             <div className="relative h-[90vh] overflow-hidden">
                 <div className="absolute inset-0 z-10 bg-gradient-to-r from-blue-700/80 to-blue-900/80"></div>
                 <motion.img
-                    src="/background.webp"
+                    src="./background.webp"
                     alt="Servicio de Catering"
                     className="absolute inset-0 object-cover w-full h-full"
                     initial={{ scale: 1.1 }}
